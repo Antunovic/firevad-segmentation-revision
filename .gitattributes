@@ -1,0 +1,5 @@
+# Keep the original annotation files byte-for-byte on all platforms.
+/reference_annotations/** -text whitespace=cr-at-eol
+*.bat -text whitespace=cr-at-eol
+*.command text eol=lf
+*.sh text eol=lf

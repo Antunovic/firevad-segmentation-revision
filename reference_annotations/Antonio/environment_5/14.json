@@ -1,0 +1,42 @@
+{
+  "video_id": 14,
+  "environment": 5,
+  "annotator_id": "Antonio",
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_frame": 0,
+      "end_frame": 289,
+      "temp_min_c": 14.56,
+      "temp_max_c": 432.25
+    },
+    {
+      "segment_id": 1,
+      "start_frame": 290,
+      "end_frame": 350,
+      "temp_min_c": 15.19,
+      "temp_max_c": 432.25
+    },
+    {
+      "segment_id": 2,
+      "start_frame": 351,
+      "end_frame": 989,
+      "temp_min_c": 14.73,
+      "temp_max_c": 432.25
+    },
+    {
+      "segment_id": 3,
+      "start_frame": 990,
+      "end_frame": 1297,
+      "temp_min_c": 14.93,
+      "temp_max_c": 432.25
+    },
+    {
+      "segment_id": 4,
+      "start_frame": 1298,
+      "end_frame": 1868,
+      "temp_min_c": 14.72,
+      "temp_max_c": 432.25
+    }
+  ]
+}

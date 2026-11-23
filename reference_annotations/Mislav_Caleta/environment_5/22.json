@@ -1,0 +1,70 @@
+{
+  "video_id": 22,
+  "environment": 5,
+  "annotator_id": "Mislav Ćaleta",
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_frame": 0,
+      "end_frame": 399,
+      "temp_min_c": 15.4,
+      "temp_max_c": 432.25
+    },
+    {
+      "segment_id": 1,
+      "start_frame": 400,
+      "end_frame": 489,
+      "temp_min_c": 15.21,
+      "temp_max_c": 355.25
+    },
+    {
+      "segment_id": 2,
+      "start_frame": 490,
+      "end_frame": 1053,
+      "temp_min_c": 15.26,
+      "temp_max_c": 432.25
+    },
+    {
+      "segment_id": 3,
+      "start_frame": 1054,
+      "end_frame": 1179,
+      "temp_min_c": 15.27,
+      "temp_max_c": 96.31
+    },
+    {
+      "segment_id": 4,
+      "start_frame": 1180,
+      "end_frame": 1287,
+      "temp_min_c": 15.44,
+      "temp_max_c": 93.5
+    },
+    {
+      "segment_id": 5,
+      "start_frame": 1288,
+      "end_frame": 1419,
+      "temp_min_c": 15.4,
+      "temp_max_c": 65.69
+    },
+    {
+      "segment_id": 6,
+      "start_frame": 1420,
+      "end_frame": 1472,
+      "temp_min_c": 15.6,
+      "temp_max_c": 65.88
+    },
+    {
+      "segment_id": 7,
+      "start_frame": 1473,
+      "end_frame": 1747,
+      "temp_min_c": 15.27,
+      "temp_max_c": 66.44
+    },
+    {
+      "segment_id": 8,
+      "start_frame": 1748,
+      "end_frame": 1833,
+      "temp_min_c": 15.31,
+      "temp_max_c": 65.75
+    }
+  ]
+}

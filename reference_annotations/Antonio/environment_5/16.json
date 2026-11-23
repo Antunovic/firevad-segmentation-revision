@@ -1,0 +1,14 @@
+{
+  "video_id": 16,
+  "environment": 5,
+  "annotator_id": "Antonio",
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_frame": 0,
+      "end_frame": 1284,
+      "temp_min_c": 14.88,
+      "temp_max_c": 432.25
+    }
+  ]
+}

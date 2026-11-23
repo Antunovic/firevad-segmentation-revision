@@ -1,0 +1,42 @@
+{
+  "video_id": 6,
+  "environment": 1,
+  "annotator_id": "Mislav Ćaleta",
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_frame": 0,
+      "end_frame": 251,
+      "temp_min_c": 9.09,
+      "temp_max_c": 27.59
+    },
+    {
+      "segment_id": 1,
+      "start_frame": 252,
+      "end_frame": 297,
+      "temp_min_c": 8.93,
+      "temp_max_c": 26.62
+    },
+    {
+      "segment_id": 2,
+      "start_frame": 298,
+      "end_frame": 378,
+      "temp_min_c": 9.01,
+      "temp_max_c": 27.23
+    },
+    {
+      "segment_id": 3,
+      "start_frame": 379,
+      "end_frame": 447,
+      "temp_min_c": 9.45,
+      "temp_max_c": 26.56
+    },
+    {
+      "segment_id": 4,
+      "start_frame": 448,
+      "end_frame": 600,
+      "temp_min_c": 8.94,
+      "temp_max_c": 27.38
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": 38,
+  "environment": 5,
+  "annotator_id": "Mislav Ćaleta",
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_frame": 0,
+      "end_frame": 249,
+      "temp_min_c": 18.95,
+      "temp_max_c": 432.25
+    },
+    {
+      "segment_id": 1,
+      "start_frame": 250,
+      "end_frame": 3253,
+      "temp_min_c": 18.3,
+      "temp_max_c": 432.25
+    }
+  ]
+}
